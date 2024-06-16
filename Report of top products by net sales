@@ -1,0 +1,9 @@
+Generate report of top products by net sales for a given financial year so that business manager can
+take appropriate actions to address any potential issues.(Use Database View)
+columns includes
+Rank
+Product
+Net sales(million)
+solution;
+
+Database views
