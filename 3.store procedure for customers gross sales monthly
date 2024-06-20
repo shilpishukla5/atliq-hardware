@@ -1,4 +1,4 @@
-3.Create a store procedure to get gross monthly sales of  diffrient customer where Input is customer code
+ 3.Create a store procedure to get gross monthly sales of  diffrient customer where Input is customer code
 and output includes total gross sales and month.
 
 The report should have the following columns.
