@@ -1,0 +1,20 @@
+ 4.Create a store procedure to get gross monthly sales for  different customer(with more than one customer_code ) 
+where Input is customer code
+
+
+The report should have the following columns.
+1.Month
+2.Tota gross_sales in that month from  given customer
+
+CREATE DEFINER=`root`@`localhost` PROCEDURE `get_monthly_gross_sales_cusomer`(
+in_customer_codes TEXT )
+BEGIN
+select s.date,sum(g.gross_price*s.sold_quantity) as
+ total_gross_price
+from fact_sales_monthly s 
+join fact_gross_price g
+on
+g.product_code=s.product_code and g.fiscal_year=get_fiscal_year(s.date)
+where FIND_IN_SET(s.customer_code,in_customer_codes)>0
+group by s.date
+order by s.date asc ;
