@@ -1,5 +1,9 @@
-Create a store procedure to get gross monthly sales of  difffrient customer where customer is customer code
+3.Create a store procedure to get gross monthly sales of  diffrient customer where Input is customer code
 and output includes total gross sales and month.
+
+The report should have the following columns.
+1.Month
+2.Tota gross_sales in that month from  given customer
 
 CREATE DEFINER=`root`@`localhost` PROCEDURE `get_monthly_gross_sales_cusomer`(
 c_code int)
