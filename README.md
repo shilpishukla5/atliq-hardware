@@ -8,8 +8,11 @@ Main task is to find answer to the question provided by different department of 
 ## AtliQ Model
 
 1.AtliQ sales hardware like keyboad, mouse, printers, moniter 
+
 2.AtliQ have Customers like Croma,Best Buy, flipkart and these customer them sells to consumers or users
+
 3.AtliQ have 3 types of Channels that is Direct (AtliQ Stores), Retailers (flipkart, croma), Distributer (Neptune)
+
 4.AtliQ have 2 types of Platforms 1. Brick and Mortar 2. E-Commerce
 
 
