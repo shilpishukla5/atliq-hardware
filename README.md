@@ -1,4 +1,4 @@
-# AtliQ hardware Finance, Marketing, sales and supply chain analysis.
+# AtliQ Hardware Finance, Marketing, Sales and Supply Chain Analysis.
 
 
 ## objective 
