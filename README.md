@@ -39,11 +39,11 @@ fact manufacturing cost
 
 fact pre invoice deduction
 
-![fact post invoice deduction](https://github.com/user-attachments/assets/5be6c694-f2e8-416e-afca-5ad5e863d712)
+![fact pre invoice deduction](https://github.com/user-attachments/assets/c6da5c62-270b-48d5-8d0a-7ce240d5a234)
 
 fact post invoice deduction
 
-![fact pre invoice deduction](https://github.com/user-attachments/assets/c6da5c62-270b-48d5-8d0a-7ce240d5a234)
+![fact post invoice deduction](https://github.com/user-attachments/assets/5be6c694-f2e8-416e-afca-5ad5e863d712)
 
 
 
