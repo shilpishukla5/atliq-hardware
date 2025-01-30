@@ -15,6 +15,9 @@ Main task is to find answer to the question provided by different department of 
 
 4.AtliQ have 2 types of Platforms 1. Brick and Mortar 2. E-Commerce
 
+## Tables
+dim customer
+![dim cuustomer](https://github.com/user-attachments/assets/cc657b92-365e-4a56-a4da-2b12cff4913b)
 
 
 
