@@ -7,7 +7,7 @@ Main task is to find answer to the question provided by different department of 
 
 ## AtliQ Model
 
-1.AtliQ sales hardware like keyboad, mouse, printers, moniter 
+1.AtliQ sales computer hardwares like keyboad, mouse, printers, moniter 
 
 2.AtliQ have Customers like Croma,Best Buy, flipkart and these customer them sells to consumers or users
 
