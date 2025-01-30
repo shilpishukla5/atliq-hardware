@@ -17,24 +17,32 @@ Main task is to find answer to the question provided by different department of 
 
 ## Tables
 dim customer
+
 ![dim cuustomer](https://github.com/user-attachments/assets/cc657b92-365e-4a56-a4da-2b12cff4913b)
 dim product
+
 ![dim product](https://github.com/user-attachments/assets/3dcac5d9-b845-4324-8ae7-ecafeea2d290)
 fact sales monthly
+
 ![dim product](https://github.com/user-attachments/assets/9964f6d1-09fe-436b-bf5c-038dfd4667db)
 fact gross price
+
 ![fact gross price](https://github.com/user-attachments/assets/072648eb-241c-40ca-b1d1-7d04f99a0316)
 
 fact freight cost
+
 ![fact freight cost ](https://github.com/user-attachments/assets/abf578b8-b10f-4071-97f4-6e01e5be1e0d)
 
 fact manufacturing cost
+
 ![fact manufacturing cost](https://github.com/user-attachments/assets/772786e8-de66-480e-8b94-2b415121baa9)
 
 fact pre invoice deduction
+
 ![fact post invoice deduction](https://github.com/user-attachments/assets/5be6c694-f2e8-416e-afca-5ad5e863d712)
 
 fact post invoice deduction
+
 ![fact pre invoice deduction](https://github.com/user-attachments/assets/c6da5c62-270b-48d5-8d0a-7ce240d5a234)
 
 
